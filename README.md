@@ -1,2 +1,5 @@
-# Knowledge-Distillation
-A generic explanation towards how knowledge distillation can help in training nlp/cv based tasks helping to narrow down the logits for something useful.  
+# Knowledge Distillation
+
+A general explanation of how knowledge distillation can aid in training NLP/CV-based tasks by refining logits for more useful outcomes.
+
+The following ideas aim to efficiently extract the right information from NLP models, such as LLMs.
